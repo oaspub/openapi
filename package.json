@@ -14,7 +14,7 @@
     "test:coverage": "c8 ava"
   },
   "dependencies": {
-    "@sinclair/typebox": "^0.25.21"
+    "@sinclair/typebox": "^0.27.1"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.3",
